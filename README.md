@@ -3,7 +3,7 @@
 
 - 🌱 Currently Learning : **Pandas | Ubuntu**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LonelyAmie?tab=repositories](https://github.com/LonelyAmie?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repository page](https://github.com/LonelyAmie?tab=repositories)
 
 - 📫 How to reach me **amir.sh.8575@gmail.com**
 
